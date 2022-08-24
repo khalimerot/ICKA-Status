@@ -1,5 +1,5 @@
 ---
-title: Maintenance Announcement 
+title: Annonce de maintenance
 date: 2022-02-27 07:00:00 
 informational: true
 pin: true 
