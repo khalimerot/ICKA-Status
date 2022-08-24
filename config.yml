@@ -146,8 +146,8 @@ params:
     - name: Multimedia
       description: Film & Music
       closed: true
-    - name: Sites Web
-      description: L'OVH
+    - name: Web
+      description: Les sites webs
       closed: true
 
   # These are your systems. Change them to
@@ -160,14 +160,19 @@ params:
   systems:
     - name: Emby 
       category: Multimedia
+      link: https://emby.icka.eu
     - name: Emby 2
       category: Multimedia
+      link: https://emby2.icka.eu
     - name: Navidrome
       category: Multimedia
       link: https://navidrome.icka.eu/
     - name: icka.eu
-      cateogory: Sites Web
+      cateogory: Web
       link: https://www.icka.eu
+    - name: Forum
+      category: Web
+      link: https://forum.icka.eu
 
   # What date format to use?
   #
