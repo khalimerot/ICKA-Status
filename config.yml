@@ -149,6 +149,9 @@ params:
     - name: Web
       description: Les sites webs
       closed: true
+    - name: Services
+      description: jeux & autres
+      closed: true  
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -167,13 +170,25 @@ params:
     - name: Navidrome
       category: Multimedia
       link: https://navidrome.icka.eu/
-    - name: icka.eu
+    - name: ICKA
       cateogory: Web
       link: https://www.icka.eu
     - name: Forum
       category: Web
       link: https://forum.icka.eu
-
+    - name: Blog
+      category: Web
+      link: https://blog.icka.eu
+    - name: AMP
+      category: Services
+      link: https://amp.icka.eu
+    - name: Komga
+      category: Services
+      link: https://komga.icka.eu
+    - name: Request
+      category: Multimedia
+      link: https://request.icka.eu
+      
   # What date format to use?
   #
   # Hugo formatting docs:
