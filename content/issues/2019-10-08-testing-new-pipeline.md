@@ -1,14 +1,12 @@
 ---
-title: New Pipeline Rollout
-date: 2019-10-05 16:24:00 
+title: 
+date: 
 resolved: true
-resolvedWhen: 2019-10-05 16:58:00 
+resolvedWhen: 
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: 
 affected:
-  - API
-section: issue
+section:
 ---
 
-There may be disruptions in the rollout.
  
