@@ -145,14 +145,14 @@ params:
   categories:
     - name: Multimedia
       description: Film & Music
-      closed: true
+      closed: false
     - name: Web
       description: Les sites webs
-      closed: true
+      closed: false
     - name: Services
       description: jeux & autres
-      closed: true  
-
+      closed: false 
+      
   # These are your systems. Change them to
   # change the amount of components.
   #
