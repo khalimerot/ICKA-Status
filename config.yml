@@ -143,10 +143,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Home Cluster
-      description: La maison
+    - name: Multimedia
+      description: Film & Music
       closed: true
-    - name: OVH Cluster
+    - name: Sites Web
       description: L'OVH
       closed: true
 
@@ -159,12 +159,15 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Emby 
-      category: Media
+      category: Multimedia
     - name: Emby 2
-      category: Media
+      category: Multimedia
     - name: Navidrome
-      category: Media
+      category: Multimedia
       link: https://navidrome.icka.eu/
+    - name: icka.eu
+      cateogory: Sites Web
+      link: https://www.icka.eu
 
   # What date format to use?
   #
