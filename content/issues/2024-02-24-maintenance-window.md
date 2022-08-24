@@ -1,9 +1,9 @@
 ---
 title: Maintenance Announcement 
-date: 2024-02-24 10:35:00 
+date: 2022-02-27 07:00:00 
 informational: true
 pin: true 
 section: issue
 ---
 
-We will shut down our network at midnight UTC on Feb 24. This does not affect the current status.
+Plusieurs coupures de services sont à prévoir durant les après-midi le week end du 27.
